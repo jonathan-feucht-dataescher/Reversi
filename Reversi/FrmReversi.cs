@@ -1,4 +1,4 @@
-﻿// frmReversi.cs
+﻿// FrmReversi.cs
 // Defines the behavior of controls on frmReversi
 // Programmed by Jonathan Feucht, 2015
 
